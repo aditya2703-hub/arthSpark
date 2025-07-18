@@ -1,10 +1,4 @@
-Okay, I understand perfectly\! You want the pure, unadulterated Markdown text for the `README.md` file, ready for direct copy-pasting onto GitHub, with all internal links functioning as expected in a GitHub repository.
 
-Here is the complete `README.md` content. Just copy everything below this line and paste it directly into a new `README.md` file in your GitHub repository.
-
------
-
-```markdown
 # ArthSpark: US Macro-Economic Data Pipeline for Energy Context
 
 ![ArthSpark Banner](https://placehold.co/1200x300/007bff/ffffff?text=ArthSpark%20Data%20Pipeline)
