@@ -34,6 +34,8 @@
 
 **ArthSpark** is an end-to-end data engineering project designed to collect, process, and store critical US macroeconomic and energy-related economic data. The pipeline extracts data from the Federal Reserve Economic Data (FRED) API, transforms it for consistency and quality, and loads it into a PostgreSQL database. This robust data foundation serves as the backbone for analyzing the intricate relationship between broad economic trends and energy markets. The project offers flexible data consumption options, including a Streamlit web dashboard and seamless integration with Power BI.
 
+ARTHSPARK.png
+
 ## 2. Concept & Motivation
 
 The name "ArthSpark" combines "**Economic**" (from Hindi 'Arth' - अर्थ) with "**Spark**" (suggesting insight, ignition, and dynamism). This name elegantly ties into the project's core idea: igniting understanding of how economic flows and changes impact the energy landscape.
